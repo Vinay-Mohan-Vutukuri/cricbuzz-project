@@ -1,0 +1,15 @@
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (1,'Sundaram Ravi','India');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (2,'Anil Chaudhary','India');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (3,'Kumar Dharmasena','Sri Lanka');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (4,'Chettithody Shamshuddin','India');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (5,'Nitin Menon','India');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (6,'Marais Erasmus','South Africa');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (7,'C. K. Nandan','India');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (8,'Chris Gaffaney','New Zealand');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (9,'Vineet Kulkarni','India');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (10,'Bruce Oxenford','Australia');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (11,'Rod Tucker','Australia');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (12,'K. N. Ananthapadmanabhan','India');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (13,'Richard Illingworth','England');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (14,'Nigel Llong','England');
+INSERT INTO umpire(umpire_id,umpire_name,country_name) VALUES (15,'Virender Sharma','India');
